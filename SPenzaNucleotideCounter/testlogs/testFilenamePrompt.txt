@@ -1,0 +1,3 @@
+Enter a inputFilename:
+in_20180220_11_59_11_015.txt
+Enter an outputFilename:
