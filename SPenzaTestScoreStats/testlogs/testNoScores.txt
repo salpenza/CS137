@@ -1,0 +1,3 @@
+Enter scores, one per line.  Press <ENTER> on a blank line to end.
+
+0	0.000000	0.000000	0.000000	0.000000
