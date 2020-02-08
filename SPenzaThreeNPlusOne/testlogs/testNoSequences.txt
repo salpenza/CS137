@@ -1,0 +1,4 @@
+Enter the output filename: 
+sbcctestdata/test_20180227_13_31_50_746.txt
+
+Complete
